@@ -1,0 +1,1 @@
+(defn full (complement empty?))
